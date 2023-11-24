@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Keenan Linck (@k-linck)
+###👋 Hi, I’m Keenan Linck (@k-linck)
 - This is my public GitHub account!
 - The vast majority of my repos at this moment are on my other account (@klinck004)
 - That account contains school projects, found at https://github.com/klinck004
